@@ -3,9 +3,10 @@
 I've been looking for a dead simple, smart and lightweight blog engine for a while. I've also been messing about with Sinatra, so figured I'd just write my own. Wish me luck!
 
 **Requirements**
-*sinatra
-*haml
-*yaml
+
+* sinatra
+* haml
+* yaml
 
 **Thoughts**
 
