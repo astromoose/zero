@@ -2,10 +2,12 @@
 
 I've been looking for a dead simple, smart and lightweight blog engine for a while. I've also been messing about with Sinatra, so figured I'd just write my own. Wish me luck!
 
-*Requirements*
+**Requirements**
+
 sinatra
 haml
 yaml
 
-*Thoughts*
+**Thoughts**
+
 Serialise blog posts to yaml. Possibly use redcloth for markdown support in posts. Haml/Sass for styling needs.
